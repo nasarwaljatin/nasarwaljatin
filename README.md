@@ -58,15 +58,6 @@
 
 ---
 
-### 🏅 Competitive Programming
-
-<p align="left">
-  <a href="https://leetcode.com/u/nasarwaljatin"><img src="https://leetcode.card.workers.dev/?username=nasarwaljatin&theme=dark&font=baloo2" alt="nasarwaljatin"/></a>
-</p>
-
-Active on **LeetCode** and **CodeChef** — continuously practicing DSA and algorithmic problem solving.
-
----
 
 ### 🤝 Positions of Responsibility
 
