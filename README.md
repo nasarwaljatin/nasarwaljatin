@@ -58,7 +58,6 @@
 
 ---
 
-
 ### 🤝 Positions of Responsibility
 
 - **Dotslash Core Member — Corporate Relations** *(Aug 2024 – Aug 2025)*: Reached out to 300+ brands and secured sponsorships; organized multiple club competitions, coordinating cross-functional teams to deliver events on schedule.
