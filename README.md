@@ -21,51 +21,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📊 QuantBacktester** — *Algorithmic Trading Backtesting Platform*
-Full-stack platform (Next.js 14, FastAPI, Celery, Redis) with async task execution, cutting strategy evaluation turnaround by **60%**. Sandboxed Python engine with AST validation runs user-defined Backtrader strategies safely against live OHLCV data, with a Postgres cache cutting redundant API calls by **80%**. Computes 8+ risk metrics (Sharpe, Sortino, Calmar, Max Drawdown) plus a 1,000-path Monte Carlo simulation, visualized via Plotly.js.
-
-`Next.js` `FastAPI` `Celery` `Redis` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 Diabetes Risk Prediction** — *ML Classification Pipeline*
-Binary classification pipeline on **229K health records**, engineering 8+ derived features (interaction terms, ordinal encodings, log transforms) from 21 health indicators. Handled 85:15 class imbalance with SMOTE inside an imbalanced-learn pipeline (no data leakage across 5-fold Stratified CV). Weighted soft-voting ensemble (Logistic Regression + AdaBoost + XGBoost) achieved **0.8156 ROC-AUC** and **88% sensitivity**.
-
-`Python` `scikit-learn` `XGBoost` `imbalanced-learn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💹 Market Data Automation & Scraping**
-Integrated and standardized feeds from NSE, Yahoo Finance, and Google Finance, resolving cross-source inconsistencies and improving data reliability by **70%**. Automated preprocessing with Python/Pandas, cutting manual effort by **70–80%** for risk models — improving downstream Sharpe ratio by **35%**.
-
-`Python` `Pandas` `Data Automation` `NSE`
-
-</td>
-<td width="50%" valign="top">
-
-**📚 LearnSphere** — *EdTech Platform*
-Scalable REST-based client-server system (React.js, Node.js, Express, MongoDB) handling **1,000+ API requests/day**. OTP-based auth cut unauthorized access by **90%**; integrated Razorpay + Cloudinary for 100+ uploads/day. Custom video/PDF viewer with debounced search cut page-load latency by **35%**.
-
-`React.js` `Node.js` `MongoDB` `REST APIs`
-
-</td>
-</tr>
-</table>
-
-*🏆 2nd place, QuantQuest (TantraFiesta) — designed algorithmic trading strategies achieving 34× simulated portfolio growth.*
-*✅ 300+ DSA problems solved across LeetCode, CodeChef & GeeksforGeeks (arrays, trees, graphs, DP, greedy).*
-
----
 
 ### 🛠️ Tech Stack
 
